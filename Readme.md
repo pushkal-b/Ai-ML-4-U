@@ -1,32 +1,36 @@
 ***
->**Pre-requisites:**
+# **Pre-requisites:**
 
 * **Linear Algebra:** for representing data using vectors, matrices and performing transformations.
 * **Calculus:** for optimization and understanding how models learn and update parameters.
 * **Statistics \& Probability:** for modeling uncertainty, analyzing data and making predictions.
 
-**python (syntax \& logic)**
+&nbsp;&nbsp;&nbsp; **python (syntax \& logic)**
 
 ***
->**Intro:**
-![image alt](https://github.com/pushkal-b/Ai-ML-4-U/blob/2db235baab82f6e90dc563b75ea3b84ab59ec257/Aimldl.png)
+# **Intro:**
+<div align="center">
+<img src="https://github.com/pushkal-b/Ai-ML-4-U/blob/2db235baab82f6e90dc563b75ea3b84ab59ec257/Aimldl.png" width="200"></div>
+
 * **AI (Artificial Intelligence):** Making machines act smart like humans.
 * **ML (Machine Learning):** Teaching machines by showing examples instead of giving every rule by predictions.
 * **DL (Deep Learning):** An advanced type of ML that learns from Big-Data using human-brain-like neurons.
 
 
 ***
->**Data Science and Statistics:**
+# **Data Science and Statistics:**
 
 **Types of Data:**
-(image)
+<div align="center">
+<img src="https://github.com/pushkal-b/Ai-ML-4-U/blob/2db235baab82f6e90dc563b75ea3b84ab59ec257/types of data.png" width="300"></div>
+
 * **Numerical/Quantitative Data:** Data represented by numbers that can be measured or counted.
 * **Categorical/Qualitative Data:** Data represented by labels or groups that describe qualities or categories.
-
+# 
 **Types of Statistics:**
 * **Descriptive Statistics:** Technique for detailed summary of sample data.
 * **Inferential Statistics:** Uses sample data to make predictions or conclusions about the larger population.
-
+# 
 **Measures of Central Tendency:**
 (image)
 * **Mean:** It is the arithmetic average of all the values in a set of data.
@@ -34,7 +38,7 @@
 * **Mode:** It is the most frequently occurring value in the set of values.
 
 **Relation b/w Central Tendency:** Mode = 3(Median) - 2(Mean)
-
+# 
 **Measures of Dispersion/Spread:**
 (image)
 * **Range:** Difference b/w the maximum and minimum values.
@@ -48,8 +52,7 @@
 * **Kurtosis:** Measure of Peakness in symmetrical curve.
 
 ***
->**Machine learning:**
-
+# **Machine learning:**
 
 **Types of ML:** 
 (image)
