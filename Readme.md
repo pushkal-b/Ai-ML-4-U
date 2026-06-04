@@ -9,7 +9,7 @@
 
 ***
 >**Intro:**
-(image)
+![image alt](https://github.com/pushkal-b/Ai-ML-4-U/blob/2db235baab82f6e90dc563b75ea3b84ab59ec257/Aimldl.png)
 * **AI (Artificial Intelligence):** Making machines act smart like humans.
 * **ML (Machine Learning):** Teaching machines by showing examples instead of giving every rule by predictions.
 * **DL (Deep Learning):** An advanced type of ML that learns from Big-Data using human-brain-like neurons.
