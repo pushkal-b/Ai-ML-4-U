@@ -1,6 +1,7 @@
 <img width="2172" height="724" alt="Image" src="https://github.com/user-attachments/assets/51e52107-af16-4537-a63a-2070726331e2" />
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+ML+For+Beginners;Generative+AI;Machine+Learning" />
+
 ***
 # **Pre-requisites:**
 
