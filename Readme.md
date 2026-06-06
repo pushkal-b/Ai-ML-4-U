@@ -32,6 +32,7 @@
 * **Categorical/Qualitative Data:** Data represented by labels or groups that describe qualities or categories.
 # 
 **Types of Statistics:**
+(image)
 * **Descriptive Statistics:** Technique for detailed summary of sample data.
 * **Inferential Statistics:** Uses sample data to make predictions or conclusions about the larger population.
 # 
