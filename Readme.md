@@ -14,7 +14,7 @@
 ***
 # **Intro:**
 <div align="center">
-<img src="https://github.com/pushkal-b/Ai-ML-4-U/blob/2db235baab82f6e90dc563b75ea3b84ab59ec257/Aimldl.png" width="200"></div>
+<img src="https://github.com/pushkal-b/Ai-ML-4-U/blob/2db235baab82f6e90dc563b75ea3b84ab59ec257/Aimldl.png" width="300"></div>
 
 * **AI (Artificial Intelligence):** Making machines act smart like humans.
 * **ML (Machine Learning):** Teaching machines by showing examples instead of giving every rule by predictions.
@@ -26,7 +26,7 @@
 
 **Types of Data:**
 <div align="center">
-<img src="https://github.com/pushkal-b/Ai-ML-4-U/blob/2db235baab82f6e90dc563b75ea3b84ab59ec257/types of data.png" width="300"></div>
+<img src="https://github.com/pushkal-b/Ai-ML-4-U/blob/2db235baab82f6e90dc563b75ea3b84ab59ec257/types of data.png" width="400"></div>
 
 * **Numerical/Quantitative Data:** Data represented by numbers that can be measured or counted.
 * **Categorical/Qualitative Data:** Data represented by labels or groups that describe qualities or categories.
