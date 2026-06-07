@@ -14,11 +14,11 @@
 ***
 # **Intro:**
 <div align="center">
-<img src="https://github.com/pushkal-b/Ai-ML-4-U/blob/2db235baab82f6e90dc563b75ea3b84ab59ec257/Aimldl.png" width="300"></div>
+<img src="images/Aimldl.png" width="300"></div>
 
-* **AI (Artificial Intelligence):** Making machines act smart like humans.
-* **ML (Machine Learning):** Teaching machines by showing examples instead of giving every rule by predictions.
-* **DL (Deep Learning):** An advanced type of ML that learns from Big-Data using human-brain-like neurons.
+* **AI (Artificial Intelligence):** Making machines perform tasks that normally require human intelligence.
+* **ML (Machine Learning):** Teaching machines to learn patterns from data and make predictions without explicitly programming every rule.
+* **DL (Deep Learning):** An advanced type of ML that learns complex patterns by uses neural networks on Big-Data.
 
 
 ***
@@ -26,45 +26,63 @@
 
 **Types of Data:**
 <div align="center">
-<img src="https://github.com/pushkal-b/Ai-ML-4-U/blob/2db235baab82f6e90dc563b75ea3b84ab59ec257/types of data.png" width="400"></div>
+<img src="images/types of data.png" width="400"></div>
 
 * **Numerical/Quantitative Data:** Data represented by numbers that can be measured or counted.
-* **Categorical/Qualitative Data:** Data represented by labels or groups that describe qualities or categories.
+* **Categorical/Qualitative Data:** Data represented by labels or categories that describe characteristics.
 # 
+**Population vs Sample:**
+* **Population:** The complete set of individuals, items, or observations you want to study.
+* **Sample:** A smaller group selected from the population, used for analysis.
+
+>(Mostly we work on sample data as collecting data from the entire population is hard, costly, or time-consuming.)
+#
 **Types of Statistics:**
-(image)
-* **Descriptive Statistics:** Technique for detailed summary of sample data.
-* **Inferential Statistics:** Uses sample data to make predictions or conclusions about the larger population.
+<div align="center">
+<img src="images/statistics.png" width="500"></div>
+
+* **Descriptive Statistics:** Summarizes and describes the main features of data.
+* **Inferential Statistics:** Uses sample data to draw conclusions about the larger population.
 # 
 **Measures of Central Tendency:**
-(image)
-* **Mean:** It is the arithmetic average of all the values in a set of data.
-* **Median:** It is the middle value when all values are sorted.
-* **Mode:** It is the most frequently occurring value in the set of values.
+<div align="center">
+<img src="images/Measure of centeral tendency.png" width="350"></div>
 
-**Relation b/w Central Tendency:** Mode = 3(Median) - 2(Mean)
+* **Mean:** Arithmetic average of all values.
+* **Mode:** Most frequently occurring value.
+* **Median:** Middle value after sorting the data.
+
+**Relation:** $Mode = 3(Median) - 2(Mean)$
 # 
-**Measures of Dispersion/Spread:**
-(image)
-* **Range:** Difference b/w the maximum and minimum values.
-* **Variance:** The average squared deviation from the mean.
+**Measures of Variability/Dispersion/Spread:**
+<div align="center">
+<img src="images/Measure of spread.png" width="350"></div>
+
+* **Range:** Difference between the maximum and minimum values.
+* **Variance:** The average squared distance from the mean.
 * **Standard Deviation:** The square root of variance.
-* **Interquartile Range:**   The difference between 75th percentile and the 25th percentile is the IQR.
+* **Interquartile Range:**   Difference between the third quartile (Q3) and first quartile (Q1).
+<div align="center">
+<img src="images/boxplot.png" width="350"></div>
 
 **Measures of Shape:**
-(images per each)
+
 * **Skewness:** Measure of Asymmetry, based on tailedness.
+<div align="center">
+<img src="images/skewness.png" width="600"></div>
+
 * **Kurtosis:** Measure of Peakness in symmetrical curve.
+<div align="center">
+<img src="images/Kurtosis.png" width="600"></div>
 
 ***
 # **Machine learning:**
 
 **Types of ML:** 
 (image)
-* **Supervised Learning:** Learns from labeled data to predict future outcomes.
-* **Unsupervised Learning:** Finds hidden patterns or groups in unlabeled data.
-* **Reinforcement Learning:** Learns by trial and error, receiving rewards for good actions and penalties for bad ones.
-
+* **Supervised Learning:** Learns from labeled data to predict outcomes.
+* **Unsupervised Learning:** Finds patterns, structures, or groups in unlabeled data.
+* **Reinforcement Learning:** Learns through trial and error, guided using rewards and penalties.
 ***
 
 
