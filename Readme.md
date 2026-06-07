@@ -105,10 +105,13 @@
 # **Machine learning:**
 
 **Types of ML:** 
-(image)
+<div align="center">
+<img src="images/ML types.png" width="600"></div>
+
 * **Supervised Learning:** Learns from labeled data to predict outcomes.
 * **Unsupervised Learning:** Finds patterns, structures, or groups in unlabeled data.
 * **Reinforcement Learning:** Learns through trial and error, guided using rewards and penalties.
+> (Main stream ML usually mixes-up these 3 types of ML.)
 ***
 
 
