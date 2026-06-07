@@ -22,29 +22,45 @@
 
 
 ***
-# **Data Science and Statistics:**
-
-**Types of Data:**
+<details id="Statistics">
+<summary><H2>Statistics</h2></summary>
+<br/>
+<details id="1">
+<summary><b>Types of Data:</b></summary>
+<br/>
 <div align="center">
 <img src="images/types of data.png" width="400"></div>
 
 * **Numerical/Quantitative Data:** Data represented by numbers that can be measured or counted.
 * **Categorical/Qualitative Data:** Data represented by labels or categories that describe characteristics.
+</details>
+
 # 
-**Population vs Sample:**
+<details id="2">
+<summary><b>Types of Dataset's:</b></summary>
+<br/>
+
 * **Population:** The complete set of individuals, items, or observations you want to study.
 * **Sample:** A smaller group selected from the population, used for analysis.
 
 >(Mostly we work on sample data as collecting data from the entire population is hard, costly, or time-consuming.)
+</details>
+
 #
-**Types of Statistics:**
+<details id="3">
+<summary><b>Types of Statistics:</b></summary>
+<br/>
 <div align="center">
 <img src="images/statistics.png" width="500"></div>
 
 * **Descriptive Statistics:** Summarizes and describes the main features of data.
 * **Inferential Statistics:** Uses sample data to draw conclusions about the larger population.
+</details>
+
 # 
-**Measures of Central Tendency:**
+<details id="4">
+<summary><b>Measures of Central Tendency:</b></summary>
+<br/>
 <div align="center">
 <img src="images/Measure of centeral tendency.png" width="350"></div>
 
@@ -53,8 +69,13 @@
 * **Median:** Middle value after sorting the data.
 
 **Relation:** $Mode = 3(Median) - 2(Mean)$
+</details>
+
 # 
-**Measures of Variability/Dispersion/Spread:**
+<details id="5">
+<summary><b>Measures of Variability/Dispersion/Spread:</b></summary>
+<br/>
+
 <div align="center">
 <img src="images/Measure of spread.png" width="350"></div>
 
@@ -64,8 +85,12 @@
 * **Interquartile Range:**   Difference between the third quartile (Q3) and first quartile (Q1).
 <div align="center">
 <img src="images/boxplot.png" width="350"></div>
+</details>
 
-**Measures of Shape:**
+#
+<details id="6">
+<summary><b>Measures of Shape:</b></summary>
+<br/>
 
 * **Skewness:** Measure of Asymmetry, based on tailedness.
 <div align="center">
@@ -74,6 +99,7 @@
 * **Kurtosis:** Measure of Peakness in symmetrical curve.
 <div align="center">
 <img src="images/Kurtosis.png" width="600"></div>
+</details></details>
 
 ***
 # **Machine learning:**
